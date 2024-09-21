@@ -8,7 +8,7 @@ import Building from './pages/Building/Building';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/react-genesis">
       <Routes>
         {/* Define the routes for your pages */}
         <Route path="/" element={
@@ -26,7 +26,6 @@ function App() {
             </ul>
           </div>
         } />
-
 
 
         <Route path="/iphone" element={<IPhone />} />
