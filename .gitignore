@@ -1,5 +1,3 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
 /node_modules
 /.pnp
@@ -10,14 +8,112 @@
 
 # production
 /build
+/.next
+/out
 
 # misc
 .DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+.env
+.env.*.local
+.env.development
+.env.test
+.env.production
+.vscode/
+.idea/
+.history/
+*.local
+*.log
+*.sublime-workspace
+*.sublime-project
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 
+# lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# IDE settings
+.vscode/
+.idea/
+
+# npm
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# MacOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# React Native specific
+.expo/
+.expo-shared/
+
+# Storybook files
+storybook-static
+
+# VS Code extensions
+.vscode-test/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Error reports
+error-report-*.json
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Android specific
+*.apk
+*.ap_
+*.ipa
+
+# iOS specific
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspectivev3
+
+# fastlane specific
+/fastlane/report.xml
+/fastlane/Preview.html
+/fastlane/screenshots/**/*.png
+
+# AppCenter
+/AppCenter/
+
+# Jest
+/junit.xml
