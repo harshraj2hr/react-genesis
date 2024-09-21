@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-genesis/static/css/main.3d01842f.css",
-    "main.js": "/react-genesis/static/js/main.0bb696f0.js",
+    "main.js": "/react-genesis/static/js/main.ed73a695.js",
     "static/js/453.f6d3c9a9.chunk.js": "/react-genesis/static/js/453.f6d3c9a9.chunk.js",
     "static/media/apple.svg": "/react-genesis/static/media/apple.e4c64d39d858b32289c037d1577240ad.svg",
     "index.html": "/react-genesis/index.html",
     "main.3d01842f.css.map": "/react-genesis/static/css/main.3d01842f.css.map",
-    "main.0bb696f0.js.map": "/react-genesis/static/js/main.0bb696f0.js.map",
+    "main.ed73a695.js.map": "/react-genesis/static/js/main.ed73a695.js.map",
     "453.f6d3c9a9.chunk.js.map": "/react-genesis/static/js/453.f6d3c9a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d01842f.css",
-    "static/js/main.0bb696f0.js"
+    "static/js/main.ed73a695.js"
   ]
 }
