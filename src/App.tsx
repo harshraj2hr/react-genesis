@@ -10,7 +10,6 @@ function App() {
   return (
     <Router basename="/react-genesis">
       <Routes>
-        {/* Define the routes for your pages */}
         <Route path="/" element={
             <div>
             <h1>Welcome to the React Project</h1>
@@ -22,15 +21,13 @@ function App() {
               <li>
                 <Link to="/building">Building Page</Link>
               </li>
-              {/* Add more links here as you add more routes */}
             </ul>
           </div>
         } />
 
 
         <Route path="/iphone" element={<IPhone />} />
-        <Route path="/building" element={<Building />} /> {/* New route */}
-        {/* You can add more routes for new pages here */}
+        <Route path="/building" element={<Building />} /> 
       </Routes>
     </Router>
   );
