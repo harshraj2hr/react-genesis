@@ -1,0 +1,16 @@
+.gateStructure {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+.upperGateStructure {
+    width: 100%;
+    height: 50%;
+    background-color: rgb(186, 118, 69);
+}
+.lowerGateStructure {
+    width: 100%;
+    height: 50%;
+    background-color: rgb(105, 105, 99);
+}

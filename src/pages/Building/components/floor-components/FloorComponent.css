@@ -1,0 +1,17 @@
+.floorStructure{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftFloorStructure {
+    width: 50%;
+    height: 100%;
+    background-color: darkgray;
+}
+
+.rightFloorStructure {
+    width: 50%;
+    height: 100%;
+}

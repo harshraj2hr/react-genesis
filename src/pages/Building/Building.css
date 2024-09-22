@@ -1,0 +1,102 @@
+.view-port-building {
+    width: 100vw;
+    height: max-content;
+    background-color: rgb(236, 228, 205);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* .building{
+    width: 50vw;
+    height: 100vh;
+    background-color: rgb(243, 201, 76);
+} */
+
+.firstBlock {
+    width: 100%;
+    height: 20vh;
+}
+
+.firstBlock .left {
+    width: 33%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.firstBlock .center {
+    width: 34%;
+    height: 100%;
+}
+
+.firstBlock .right {
+    width: 33%;
+    height: 100%;
+    align-items: center;
+    justify-content: left;
+    gap: 8%;
+    display: flex;
+}
+
+
+
+
+.cornerCircle {
+    width: 33%;
+    height: 33%;
+    border-radius: 50%;
+    background-color: rgb(6, 6, 53); 
+}
+
+.floor
+{
+    width: 500px;
+    height: 150px;
+    background-color: rgb(199, 199, 38);
+}
+.view 
+{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    height: 100vh;
+    width: 100vw;
+}
+
+
+.circle-build
+{
+width: 40px;
+height: 40px;
+background-color: rgb(5, 8, 70);
+border-radius: 50px;
+}
+.rectangle-build 
+{
+    width: 20px;
+    height: 80px;
+    background-color: rgb(5, 8, 70);
+
+}
+.floor{
+    display: flex;
+    justify-content: space-between;
+}
+.floor-left
+{
+width: 30%;
+height: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.floor-right
+{
+width: 70%;
+height: 100%;
+display: flex;
+align-items: center;
+justify-content: right;
+}

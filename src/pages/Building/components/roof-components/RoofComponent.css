@@ -1,0 +1,72 @@
+.roofStructure{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftRoofStructure {
+    width: 50%;
+    height: 100%;
+}
+
+.rightRoofStructure {
+    width: 50%;
+    height: 100%;
+    background-color: darkgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.wifiStructureWrapper {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.wifiStructure {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    align-items: end;
+    justify-content: left;
+    gap: 10px;
+}
+
+.wifi-1 {
+    width: 5%;
+    height: 32%;
+    background-color: rgb(6, 6, 53); 
+}
+
+.wifi-2 {
+    width: 5%;
+    height: 40%;
+    background-color: rgb(6, 6, 53); 
+}
+
+.wifi-3 {
+    width: 5%;
+    height: 48%;
+    background-color: rgb(6, 6, 53); 
+}
+
+.wifi-4 {
+    width: 5%;
+    height: 56%;
+    background-color: rgb(6, 6, 53); 
+}
+.wifi-5 {
+    width: 5%;
+    height: 64%;
+    background-color: rgb(6, 6, 53); 
+}
+.wifi-6 {
+    width: 5%;
+    height: 74%;
+    background-color: rgb(6, 6, 53); 
+}
