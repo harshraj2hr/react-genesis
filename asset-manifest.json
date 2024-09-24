@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-genesis/static/css/main.352bdf9e.css",
-    "main.js": "/react-genesis/static/js/main.7a1aa604.js",
+    "main.css": "/react-genesis/static/css/main.c60cb733.css",
+    "main.js": "/react-genesis/static/js/main.2efa5ccf.js",
     "static/js/453.f6d3c9a9.chunk.js": "/react-genesis/static/js/453.f6d3c9a9.chunk.js",
     "static/media/apple.svg": "/react-genesis/static/media/apple.e4c64d39d858b32289c037d1577240ad.svg",
     "index.html": "/react-genesis/index.html",
-    "main.352bdf9e.css.map": "/react-genesis/static/css/main.352bdf9e.css.map",
-    "main.7a1aa604.js.map": "/react-genesis/static/js/main.7a1aa604.js.map",
+    "main.c60cb733.css.map": "/react-genesis/static/css/main.c60cb733.css.map",
+    "main.2efa5ccf.js.map": "/react-genesis/static/js/main.2efa5ccf.js.map",
     "453.f6d3c9a9.chunk.js.map": "/react-genesis/static/js/453.f6d3c9a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.352bdf9e.css",
-    "static/js/main.7a1aa604.js"
+    "static/css/main.c60cb733.css",
+    "static/js/main.2efa5ccf.js"
   ]
 }
