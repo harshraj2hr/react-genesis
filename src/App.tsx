@@ -4,6 +4,7 @@ import './App.css';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import IPhone from './pages/Iphone/Iphone';
 import Building from './pages/Building/Building';
+import CustomForm from './pages/Forms/CustomForms';
 
 
 function App() {
@@ -21,6 +22,9 @@ function App() {
               <li>
                 <Link to="/building">Building Page</Link>
               </li>
+              <li>
+                <Link to="/form">Form Page</Link>
+              </li>
             </ul>
           </div>
         } />
@@ -28,6 +32,7 @@ function App() {
 
         <Route path="/iphone" element={<IPhone />} />
         <Route path="/building" element={<Building />} /> 
+        <Route path="/form" element={<CustomForm />} /> 
       </Routes>
     </Router>
   );
