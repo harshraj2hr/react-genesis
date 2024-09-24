@@ -34,17 +34,9 @@ const SavedFormData = () => {
         'Phone': '',
         "Father's Name": '',
         'Address': ''
-    });
+   } )};
 
-    const handleChange = (event:any) => {
-        const { name, value } = event.target; 
-        setFormData((prevData) => ({
-            ...prevData,
-            [name]: value 
-        }));
-    };
-
-function Form() {
+function CustomForms() {
     return (
 
         <div className="form-view-port">
@@ -101,4 +93,4 @@ function returnForm() {
     );
 }
 
-export default Form;
+export default CustomForms;
