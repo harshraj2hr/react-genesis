@@ -4,7 +4,7 @@ import './App.css';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import IPhone from './pages/Iphone/Iphone';
 import Building from './pages/Building/Building';
-import CustomForm from './pages/Forms/CustomForms';
+import CustomForms from './pages/Forms/CustomForms';
 
 
 function App() {
@@ -32,7 +32,7 @@ function App() {
 
         <Route path="/iphone" element={<IPhone />} />
         <Route path="/building" element={<Building />} /> 
-        <Route path="/form" element={<CustomForm />} /> 
+        <Route path="/form" element={<CustomForms />} /> 
       </Routes>
     </Router>
   );
