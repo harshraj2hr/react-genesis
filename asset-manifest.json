@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/react-genesis/static/css/main.c60cb733.css",
-    "main.js": "/react-genesis/static/js/main.2efa5ccf.js",
+    "main.css": "/react-genesis/static/css/main.f0ced100.css",
+    "main.js": "/react-genesis/static/js/main.d9365691.js",
     "static/js/453.f6d3c9a9.chunk.js": "/react-genesis/static/js/453.f6d3c9a9.chunk.js",
+    "static/media/long-haired-girl-watching-through-binoculars (2) 1.png": "/react-genesis/static/media/long-haired-girl-watching-through-binoculars (2) 1.aaec9a913e76c015a4cc.png",
     "static/media/apple.svg": "/react-genesis/static/media/apple.e4c64d39d858b32289c037d1577240ad.svg",
     "index.html": "/react-genesis/index.html",
-    "main.c60cb733.css.map": "/react-genesis/static/css/main.c60cb733.css.map",
-    "main.2efa5ccf.js.map": "/react-genesis/static/js/main.2efa5ccf.js.map",
+    "main.f0ced100.css.map": "/react-genesis/static/css/main.f0ced100.css.map",
+    "main.d9365691.js.map": "/react-genesis/static/js/main.d9365691.js.map",
     "453.f6d3c9a9.chunk.js.map": "/react-genesis/static/js/453.f6d3c9a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c60cb733.css",
-    "static/js/main.2efa5ccf.js"
+    "static/css/main.f0ced100.css",
+    "static/js/main.d9365691.js"
   ]
 }
